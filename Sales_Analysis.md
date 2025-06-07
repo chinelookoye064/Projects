@@ -1,6 +1,10 @@
 # Skin Products Sales Analysis
 ------
 
+## Table of Content
+1. [Introduction](#Introduction)
+2. [About the Dataset](#About-the-Dataset)
+
 ## Introduction
 This project is about analyzing skin products from Nigeria.
 
