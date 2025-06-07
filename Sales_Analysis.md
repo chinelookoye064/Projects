@@ -15,6 +15,9 @@ This was done in SQL. Here are the steps.
 ## Data Analysis
 
 ## Data Visualization
+You can check the dashboard below.
+
+[image](https://github.com/chinelookoye064/Projects/blob/main/1728628875988.jpg)
 
 ## Insights
 
